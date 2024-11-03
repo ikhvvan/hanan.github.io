@@ -423,6 +423,7 @@ https://www.tooplate.com/view/2120-ben-resume
     width: 70%;
     max-width: 600px;
     background: var(--gray-color);
+	display: block;
     padding: 20px; 
     margin: 20px auto;
     border-radius: 10px;
@@ -481,6 +482,7 @@ https://www.tooplate.com/view/2120-ben-resume
         width: 70%;
         max-width: 600px;
         background: var(--gray-color);
+	      display: block;
         padding: 20px; 
         margin: 20px auto;
         border-radius: 10px;
